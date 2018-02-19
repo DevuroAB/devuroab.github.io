@@ -1,0 +1,5 @@
+node_modules
+bower_components
+/BitBoostSiteGenerator/BitBoostSiteGenerator/bin
+/BitBoostSiteGenerator/BitBoostSiteGenerator/obj
+/BitBoostSiteGenerator/.vs
