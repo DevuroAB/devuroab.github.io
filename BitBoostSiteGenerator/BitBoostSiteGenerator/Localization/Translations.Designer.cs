@@ -106,7 +106,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you are looking for consultants that are experienced, easy going and spiced up with a strong focus on productivity, then you have come to the right place!.
+        ///   Looks up a localized string similar to Are you looking for consultants that are experienced, easy going and focused on productivity? Then you have found the right place!.
         /// </summary>
         internal static string Text_1006 {
             get {
@@ -124,7 +124,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Our Mission.
+        ///   Looks up a localized string similar to The company was founded based on the following core values:.
         /// </summary>
         internal static string Text_1008 {
             get {
@@ -133,7 +133,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!.
+        ///   Looks up a localized string similar to Customer focus.
         /// </summary>
         internal static string Text_1009 {
             get {
@@ -142,7 +142,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to How can we help?.
+        ///   Looks up a localized string similar to Build-measure-learn loops helps us come up with the right solution.
         /// </summary>
         internal static string Text_1010 {
             get {
@@ -151,7 +151,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Services.
+        ///   Looks up a localized string similar to Productivity.
         /// </summary>
         internal static string Text_1011 {
             get {
@@ -160,7 +160,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Let&apos;s Get In Touch!.
+        ///   Looks up a localized string similar to We are hired to deliver.
         /// </summary>
         internal static string Text_1012 {
             get {
@@ -169,7 +169,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ready to start your next project with us? That&apos;s great! Give us a call or send us an email and we will get back to you as soon as possible!.
+        ///   Looks up a localized string similar to Joyfulness.
         /// </summary>
         internal static string Text_1013 {
             get {
@@ -178,7 +178,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Talk To Us.
+        ///   Looks up a localized string similar to What creativity and innovation is born out of.
         /// </summary>
         internal static string Text_1014 {
             get {
@@ -187,7 +187,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Architecture.
+        ///   Looks up a localized string similar to Curiosity.
         /// </summary>
         internal static string Text_1015 {
             get {
@@ -196,7 +196,7 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Integration.
+        ///   Looks up a localized string similar to This is how we learn and improve ourselves.
         /// </summary>
         internal static string Text_1016 {
             get {
@@ -205,11 +205,308 @@ namespace BitBoostSiteGenerator.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to tran.
+        ///   Looks up a localized string similar to This foundation is reinforced with 13 years of software industry experience both in consultant and product development companies in sectors such as:.
         /// </summary>
         internal static string Text_1017 {
             get {
                 return ResourceManager.GetString("Text_1017", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Industrial Automation.
+        /// </summary>
+        internal static string Text_1018 {
+            get {
+                return ResourceManager.GetString("Text_1018", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-Commerce.
+        /// </summary>
+        internal static string Text_1019 {
+            get {
+                return ResourceManager.GetString("Text_1019", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Safety.
+        /// </summary>
+        internal static string Text_1020 {
+            get {
+                return ResourceManager.GetString("Text_1020", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Internet Connectivity.
+        /// </summary>
+        internal static string Text_1021 {
+            get {
+                return ResourceManager.GetString("Text_1021", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Distributed systems.
+        /// </summary>
+        internal static string Text_1022 {
+            get {
+                return ResourceManager.GetString("Text_1022", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Medical Technology.
+        /// </summary>
+        internal static string Text_1023 {
+            get {
+                return ResourceManager.GetString("Text_1023", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Healthcare.
+        /// </summary>
+        internal static string Text_1024 {
+            get {
+                return ResourceManager.GetString("Text_1024", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Together they make up a winning concept. We are driven by customer satisfaction and our customers are happy when we deliver value..
+        /// </summary>
+        internal static string Text_1025 {
+            get {
+                return ResourceManager.GetString("Text_1025", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How can we help?.
+        /// </summary>
+        internal static string Text_1026 {
+            get {
+                return ResourceManager.GetString("Text_1026", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .NET.
+        /// </summary>
+        internal static string Text_1027 {
+            get {
+                return ResourceManager.GetString("Text_1027", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to C#, VB.NET, C++ / CLI, Desktop, Mobile, Backend, Web..
+        /// </summary>
+        internal static string Text_1028 {
+            get {
+                return ResourceManager.GetString("Text_1028", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Architecture.
+        /// </summary>
+        internal static string Text_1029 {
+            get {
+                return ResourceManager.GetString("Text_1029", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Improvements in existing systems, support when designing new features or complete design from scratch..
+        /// </summary>
+        internal static string Text_1030 {
+            get {
+                return ResourceManager.GetString("Text_1030", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Integration.
+        /// </summary>
+        internal static string Text_1031 {
+            get {
+                return ResourceManager.GetString("Text_1031", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mapping of data between systems, communication and hardware interfaces. Everything needs to work together..
+        /// </summary>
+        internal static string Text_1032 {
+            get {
+                return ResourceManager.GetString("Text_1032", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New development.
+        /// </summary>
+        internal static string Text_1033 {
+            get {
+                return ResourceManager.GetString("Text_1033", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not just feature enhancements or new systems and applications. There could also be a need for refactoring a legacy system or to reduce code smell and technical debt..
+        /// </summary>
+        internal static string Text_1034 {
+            get {
+                return ResourceManager.GetString("Text_1034", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maintenance.
+        /// </summary>
+        internal static string Text_1035 {
+            get {
+                return ResourceManager.GetString("Text_1035", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Software is never complete. After deployment you have to plan for work such as fixing bugs, respond to customer feedback and eliminate technical debt..
+        /// </summary>
+        internal static string Text_1036 {
+            get {
+                return ResourceManager.GetString("Text_1036", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Agile processes.
+        /// </summary>
+        internal static string Text_1037 {
+            get {
+                return ResourceManager.GetString("Text_1037", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scale your development process from Kanban and SCRUM to enterprise models such as SAFe and LeSS. What are your needs?.
+        /// </summary>
+        internal static string Text_1038 {
+            get {
+                return ResourceManager.GetString("Text_1038", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Talk To Us.
+        /// </summary>
+        internal static string Text_1039 {
+            get {
+                return ResourceManager.GetString("Text_1039", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1040 {
+            get {
+                return ResourceManager.GetString("Text_1040", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1041 {
+            get {
+                return ResourceManager.GetString("Text_1041", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1042 {
+            get {
+                return ResourceManager.GetString("Text_1042", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1043 {
+            get {
+                return ResourceManager.GetString("Text_1043", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1044 {
+            get {
+                return ResourceManager.GetString("Text_1044", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1045 {
+            get {
+                return ResourceManager.GetString("Text_1045", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1046 {
+            get {
+                return ResourceManager.GetString("Text_1046", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1047 {
+            get {
+                return ResourceManager.GetString("Text_1047", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1048 {
+            get {
+                return ResourceManager.GetString("Text_1048", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1049 {
+            get {
+                return ResourceManager.GetString("Text_1049", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Text_1050 {
+            get {
+                return ResourceManager.GetString("Text_1050", resourceCulture);
             }
         }
     }

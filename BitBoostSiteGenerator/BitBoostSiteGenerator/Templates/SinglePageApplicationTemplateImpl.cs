@@ -16,7 +16,8 @@ namespace BitBoostSiteGenerator.Templates
 
         public Localizer Localizer { get; }
 
-        public string CompanyName => "BitBoost AB";
-        public string CompanyMail => "hi@bitboost.se";
+        public string CompanyName => "Devuro AB";
+        public string CompanyMail => "hi@devuro.se";
+        public string OrganizationNumber = "559146-9779";
     }
 }

@@ -133,39 +133,138 @@
     <value>Software Development Consulting</value>
   </data>
   <data name="Text_1006" xml:space="preserve">
-    <value>If you are looking for consultants that are experienced, easy going and spiced up with a strong focus on productivity, then you have come to the right place!</value>
+    <value>Are you looking for consultants that are experienced, easy going and focused on productivity? Then you have found the right place!</value>
   </data>
   <data name="Text_1007" xml:space="preserve">
     <value>Find Out More</value>
   </data>
   <data name="Text_1008" xml:space="preserve">
-    <value>Our Mission</value>
+    <value>The company was founded based on the following core values:</value>
   </data>
   <data name="Text_1009" xml:space="preserve">
-    <value>Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</value>
+    <value>Customer focus</value>
   </data>
   <data name="Text_1010" xml:space="preserve">
-    <value>How can we help?</value>
+    <value>'Build-measure-learn' loops helps us come up with the right solution</value>
   </data>
   <data name="Text_1011" xml:space="preserve">
-    <value>Services</value>
+    <value>Productivity</value>
   </data>
   <data name="Text_1012" xml:space="preserve">
-    <value>Let's Get In Touch!</value>
+    <value>We are hired to deliver</value>
   </data>
   <data name="Text_1013" xml:space="preserve">
-    <value>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</value>
+    <value>Joyfulness</value>
   </data>
   <data name="Text_1014" xml:space="preserve">
-    <value>Talk To Us</value>
+    <value>What creativity and innovation is born out of</value>
   </data>
   <data name="Text_1015" xml:space="preserve">
-    <value>Architecture</value>
+    <value>Curiosity</value>
   </data>
   <data name="Text_1016" xml:space="preserve">
-    <value>Integration</value>
+    <value>This is how we learn and improve ourselves</value>
   </data>
   <data name="Text_1017" xml:space="preserve">
-    <value>tran</value>
+    <value>This foundation is reinforced with 13 years of software industry experience both in consultant and product development companies in sectors such as:</value>
+  </data>
+  <data name="Text_1018" xml:space="preserve">
+    <value>Industrial Automation</value>
+  </data>
+  <data name="Text_1019" xml:space="preserve">
+    <value>E-Commerce</value>
+  </data>
+  <data name="Text_1020" xml:space="preserve">
+    <value>Safety</value>
+  </data>
+  <data name="Text_1021" xml:space="preserve">
+    <value>Internet Connectivity (IoT)</value>
+  </data>
+  <data name="Text_1022" xml:space="preserve">
+    <value>Distributed Systems</value>
+  </data>
+  <data name="Text_1023" xml:space="preserve">
+    <value>Medical Technology</value>
+  </data>
+  <data name="Text_1024" xml:space="preserve">
+    <value>Healthcare</value>
+  </data>
+  <data name="Text_1025" xml:space="preserve">
+    <value>Together they make up a winning concept. We are driven by customer satisfaction and our customers are happy when we deliver value.</value>
+  </data>
+  <data name="Text_1026" xml:space="preserve">
+    <value>How can we help?</value>
+  </data>
+  <data name="Text_1027" xml:space="preserve">
+    <value>.NET</value>
+  </data>
+  <data name="Text_1028" xml:space="preserve">
+    <value>C#, VB.NET, C++ / CLI, Desktop, Mobile, Backend, Web.</value>
+  </data>
+  <data name="Text_1029" xml:space="preserve">
+    <value>Architecture</value>
+  </data>
+  <data name="Text_1030" xml:space="preserve">
+    <value>Improvements in existing systems, support when designing new features or complete design from scratch.</value>
+  </data>
+  <data name="Text_1031" xml:space="preserve">
+    <value>Integration</value>
+  </data>
+  <data name="Text_1032" xml:space="preserve">
+    <value>Mapping of data between systems, communication and hardware interfaces. Everything needs to work together.</value>
+  </data>
+  <data name="Text_1033" xml:space="preserve">
+    <value>New Development</value>
+  </data>
+  <data name="Text_1034" xml:space="preserve">
+    <value>Not just feature enhancements or new systems and applications. There could also be a need for refactoring a legacy system or to reduce code smell and technical debt.</value>
+  </data>
+  <data name="Text_1035" xml:space="preserve">
+    <value>Maintenance</value>
+  </data>
+  <data name="Text_1036" xml:space="preserve">
+    <value>Software is never complete. After deployment you have to plan for work such as fixing bugs, respond to customer feedback and eliminate technical debt.</value>
+  </data>
+  <data name="Text_1037" xml:space="preserve">
+    <value>Agile Processes</value>
+  </data>
+  <data name="Text_1038" xml:space="preserve">
+    <value>Scale your development process from Kanban and SCRUM to enterprise models such as SAFe and LeSS. What are your needs?</value>
+  </data>
+  <data name="Text_1039" xml:space="preserve">
+    <value>Talk To Us</value>
+  </data>
+  <data name="Text_1040" xml:space="preserve">
+    <value>Let's Get In Touch!</value>
+  </data>
+  <data name="Text_1041" xml:space="preserve">
+    <value>Ready to start working with us? Maybe you just want to take a coffee and chat?</value>
+  </data>
+  <data name="Text_1042" xml:space="preserve">
+    <value>Either way, we are most interested in hearing from you! Give us a call or send us an email and we will get back to you as soon as possible!</value>
+  </data>
+  <data name="Text_1043" xml:space="preserve">
+    <value>Org Nr:</value>
+  </data>
+  <data name="Text_1044" xml:space="preserve">
+    <value>Gothenburg</value>
+  </data>
+  <data name="Text_1045" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Text_1046" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Text_1047" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Text_1048" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Text_1049" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Text_1050" xml:space="preserve">
+    <value />
   </data>
 </root>

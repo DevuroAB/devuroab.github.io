@@ -18,7 +18,7 @@ namespace BitBoostSiteGenerator.Templates
     /// Class to produce the template output
     /// </summary>
     
-    #line 1 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+    #line 1 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.TextTemplating", "15.0.0.0")]
     public partial class SinglePageApplicationTemplate : SinglePageApplicationTemplateBase
     {
@@ -40,37 +40,37 @@ namespace BitBoostSiteGenerator.Templates
 
     <title>");
             
-            #line 16 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 16 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(CompanyName));
             
             #line default
             #line hidden
-            this.Write("</title>\r\n\r\n    <!-- Bootstrap core CSS -->\r\n    <link href=\"vendor/bootstrap/css" +
-                    "/bootstrap.min.css\" rel=\"stylesheet\">\r\n\r\n    <!-- Custom fonts for this template" +
-                    " -->\r\n    <link href=\"vendor/font-awesome/css/font-awesome.min.css\" rel=\"stylesh" +
-                    "eet\" type=\"text/css\">\r\n    <link href=\'https://fonts.googleapis.com/css?family=O" +
-                    "pen+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800\' " +
-                    "rel=\'stylesheet\' type=\'text/css\'>\r\n    <link href=\'https://fonts.googleapis.com/" +
-                    "css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic\'" +
-                    " rel=\'stylesheet\' type=\'text/css\'>\r\n\r\n    <!-- Plugin CSS -->\r\n    <link href=\"v" +
-                    "endor/magnific-popup/magnific-popup.css\" rel=\"stylesheet\">\r\n\r\n    <!-- Custom st" +
-                    "yles for this template -->\r\n    <link href=\"css/creative.min.css\" rel=\"styleshee" +
-                    "t\">\r\n\r\n  </head>\r\n  <!--https://startbootstrap.com/template-overviews/creative/-" +
-                    "->\r\n<!--https://www.pexels.com/search/development/-->\r\n<!--https://www.pexels.co" +
-                    "m/photo/iphone-notebook-pen-working-34578/-->\r\n<!--https://css-tricks.com/design" +
-                    "-considerations-text-images/-->\r\n  <body id=\"page-top\">\r\n\r\n    <!-- Navigation -" +
-                    "->\r\n    <nav class=\"navbar navbar-expand-lg navbar-light fixed-top\" id=\"mainNav\"" +
-                    ">\r\n      <div class=\"container\">\r\n        <a class=\"navbar-brand js-scroll-trigg" +
-                    "er\" href=\"#page-top\"><img src=\"./img/logo.png\" /></a>\r\n        <button class=\"na" +
-                    "vbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-tar" +
-                    "get=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" a" +
-                    "ria-label=\"Toggle navigation\">\r\n          <span class=\"navbar-toggler-icon\"></sp" +
-                    "an>\r\n        </button>\r\n        <div class=\"collapse navbar-collapse\" id=\"navbar" +
-                    "Responsive\">\r\n          <ul class=\"navbar-nav ml-auto\">\r\n            <li class=\"" +
-                    "nav-item\">\r\n              <a class=\"nav-link js-scroll-trigger\" href=\"#page-top\"" +
-                    ">");
+            this.Write("</title>\r\n\r\n    <!-- References -->\r\n    <!--https://startbootstrap.com/template-" +
+                    "overviews/creative/-->\r\n    <!--https://www.pexels.com/search/development/-->\r\n " +
+                    "   <!--https://www.pexels.com/photo/iphone-notebook-pen-working-34578/-->\r\n    <" +
+                    "!--https://css-tricks.com/design-considerations-text-images/-->\r\n\r\n    <!-- Boot" +
+                    "strap core CSS -->\r\n    <link href=\"vendor/bootstrap/css/bootstrap.min.css\" rel=" +
+                    "\"stylesheet\">\r\n\r\n    <!-- Custom fonts for this template -->\r\n    <link href=\"ve" +
+                    "ndor/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\">\r\n " +
+                    "   <link href=\'https://fonts.googleapis.com/css?family=Open+Sans:300italic,400it" +
+                    "alic,600italic,700italic,800italic,400,300,600,700,800\' rel=\'stylesheet\' type=\'t" +
+                    "ext/css\'>\r\n    <link href=\'https://fonts.googleapis.com/css?family=Merriweather:" +
+                    "400,300,300italic,400italic,700,700italic,900,900italic\' rel=\'stylesheet\' type=\'" +
+                    "text/css\'>\r\n\r\n    <!-- Plugin CSS -->\r\n    <link href=\"vendor/magnific-popup/mag" +
+                    "nific-popup.css\" rel=\"stylesheet\">\r\n\r\n    <!-- Custom styles for this template -" +
+                    "->\r\n    <link href=\"css/creative.css\" rel=\"stylesheet\">\r\n\r\n  </head>\r\n\r\n  <body " +
+                    "id=\"page-top\">\r\n\r\n    <!-- Navigation -->\r\n    <nav class=\"navbar navbar-expand-" +
+                    "lg navbar-dark fixed-top\" id=\"mainNav\">\r\n      <div class=\"container\">\r\n        " +
+                    "<a class=\"navbar-brand js-scroll-trigger\" href=\"#page-top\"><img src=\"./img/logo." +
+                    "png\" /></a>\r\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"b" +
+                    "utton\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"nav" +
+                    "barResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n          " +
+                    "<span class=\"navbar-toggler-icon\"></span>\r\n        </button>\r\n        <div class" +
+                    "=\"collapse navbar-collapse\" id=\"navbarResponsive\">\r\n          <ul class=\"navbar-" +
+                    "nav ml-auto\">\r\n            <li class=\"nav-item\">\r\n              <a class=\"nav-li" +
+                    "nk js-scroll-trigger\" href=\"#page-top\">");
             
-            #line 49 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 52 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1001]));
             
             #line default
@@ -78,7 +78,7 @@ namespace BitBoostSiteGenerator.Templates
             this.Write("</a>\r\n            </li>            \r\n            <li class=\"nav-item\">\r\n         " +
                     "     <a class=\"nav-link js-scroll-trigger\" href=\"#about\">");
             
-            #line 52 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 55 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1002]));
             
             #line default
@@ -86,7 +86,7 @@ namespace BitBoostSiteGenerator.Templates
             this.Write("</a>\r\n            </li>\r\n            <li class=\"nav-item\">\r\n              <a clas" +
                     "s=\"nav-link js-scroll-trigger\" href=\"#services\">");
             
-            #line 55 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 58 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1003]));
             
             #line default
@@ -99,13 +99,19 @@ namespace BitBoostSiteGenerator.Templates
             <li class=""nav-item"">
               <a class=""nav-link js-scroll-trigger"" href=""#contact"">");
             
-            #line 61 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 64 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1004]));
             
             #line default
             #line hidden
             this.Write(@"</a>
             </li>
+            <li class=""nav-item"">
+              <a class=""nav-link "" href=""index.sv-SE.html""><img src=""./img/lang_sv.png""></a>
+            </li>
+            <li class=""nav-item"">
+                <a class=""nav-link "" href=""index.html""><img src=""./img/lang_uk.png""></a>
+            </li>               
           </ul>
         </div>
       </div>
@@ -118,15 +124,15 @@ namespace BitBoostSiteGenerator.Templates
             <h1 class=""text-uppercase"">
               <strong>");
             
-            #line 73 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 82 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1005]));
             
             #line default
             #line hidden
             this.Write("</strong>\r\n            </h1>\r\n            <hr>\r\n          </div>\r\n          <div " +
-                    "class=\"col-lg-8 mx-auto\">\r\n            <p class=\"text-faded mb-5\">");
+                    "class=\"col-lg-8 mx-auto\">\r\n            <p class=\"text-white mb-5\">");
             
-            #line 78 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 87 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1006]));
             
             #line default
@@ -134,7 +140,7 @@ namespace BitBoostSiteGenerator.Templates
             this.Write("</p>\r\n            <a class=\"btn btn-primary btn-xl js-scroll-trigger\" href=\"#abou" +
                     "t\">");
             
-            #line 79 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 88 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1007]));
             
             #line default
@@ -149,26 +155,295 @@ namespace BitBoostSiteGenerator.Templates
       <div class=""container"">
         <div class=""row"">
           <div class=""col-lg-8 mx-auto text-center"">
-            <h2 class=""section-heading text-white"">");
+            <h2 class=""section-heading "">");
             
-            #line 89 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 98 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1002]));
+            
+            #line default
+            #line hidden
+            this.Write("</h2>\r\n            <hr class=\"my-4\">\r\n            <p class=\"text-muted mb-4\">");
+            
+            #line 100 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1008]));
             
             #line default
             #line hidden
-            this.Write("</h2>\r\n            <hr class=\"light my-4\">\r\n            <p class=\"text-faded mb-4" +
-                    "\">");
+            this.Write("</p>               \r\n            <ul class=\"list-unstyled\">\r\n              <li><h" +
+                    "5>");
             
-            #line 91 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 102 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1009]));
             
             #line default
             #line hidden
-            this.Write("</p>\r\n            <a class=\"btn btn-light btn-xl js-scroll-trigger\" href=\"#servic" +
-                    "es\">");
+            this.Write("<br/><small class=\"text-muted mb-4\">");
             
-            #line 92 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 102 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1010]));
+            
+            #line default
+            #line hidden
+            this.Write("</small></h5></li>\r\n              <li><h5>");
+            
+            #line 103 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1011]));
+            
+            #line default
+            #line hidden
+            this.Write("<br/><small class=\"text-muted mb-1\">");
+            
+            #line 103 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1012]));
+            
+            #line default
+            #line hidden
+            this.Write("</small></h5></li>\r\n              <li><h5>");
+            
+            #line 104 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1013]));
+            
+            #line default
+            #line hidden
+            this.Write("<br/><small class=\"text-muted mb-1\">");
+            
+            #line 104 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1014]));
+            
+            #line default
+            #line hidden
+            this.Write("</small></h5></li>\r\n              <li><h5>");
+            
+            #line 105 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1015]));
+            
+            #line default
+            #line hidden
+            this.Write("<br/><small class=\"text-muted mb-1\">");
+            
+            #line 105 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1016]));
+            
+            #line default
+            #line hidden
+            this.Write("</small></h5></li>\r\n            </ul>\r\n            <p/>\r\n            <p class=\"te" +
+                    "xt-muted mb-4\">");
+            
+            #line 108 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1017]));
+            
+            #line default
+            #line hidden
+            this.Write("</p>\r\n            <ul class=\"list-unstyled\">\r\n              <li><h5>");
+            
+            #line 110 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1018]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n              <li><h5>");
+            
+            #line 111 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1019]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n              <li><h5>");
+            
+            #line 112 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1020]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n              <li><h5>");
+            
+            #line 113 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1021]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n              <li><h5>");
+            
+            #line 114 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1022]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n              <li><h5>");
+            
+            #line 115 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1023]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n              <li><h5>");
+            
+            #line 116 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1024]));
+            
+            #line default
+            #line hidden
+            this.Write("</h5></li>\r\n            </ul>\r\n            </p>\r\n            <p class=\"text-muted" +
+                    " mb-4\">");
+            
+            #line 119 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1025]));
+            
+            #line default
+            #line hidden
+            this.Write("</p> \r\n            <p class=\"text-white mb-5\"></p>\r\n            <a class=\"btn btn" +
+                    "-primary btn-xl js-scroll-trigger\" href=\"#services\">");
+            
+            #line 121 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1026]));
+            
+            #line default
+            #line hidden
+            this.Write("</a>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </section>      \r\n    <" +
+                    "section id=\"services\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">" +
+                    "\r\n          <div class=\"col-lg-12 text-center\">\r\n            <h2 class=\"section-" +
+                    "heading\">");
+            
+            #line 130 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1003]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</h2>
+            <hr class=""my-4"">
+          </div>
+        </div>
+      </div>
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-lg-4 col-md-6 text-center"">
+              <div class=""service-box mt-5 mx-auto"">
+                <i class=""fa fa-4x fa-keyboard-o text-primary mb-3 sr-icons""></i>
+                <h3 class=""mb-3"">");
+            
+            #line 140 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1027]));
+            
+            #line default
+            #line hidden
+            this.Write("</h3>\r\n                <p class=\"text-muted mb-0\">");
+            
+            #line 141 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1028]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+              </div>
+            </div>    
+          <div class=""col-lg-4 col-md-6 text-center"">
+            <div class=""service-box mt-5 mx-auto"">
+              <i class=""fa fa-4x fa-diamond text-primary mb-3 sr-icons""></i>
+              <h3 class=""mb-3"">");
+            
+            #line 147 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1029]));
+            
+            #line default
+            #line hidden
+            this.Write("</h3>\r\n              <p class=\"text-muted mb-0\">");
+            
+            #line 148 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1030]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+            </div>
+          </div>
+          <div class=""col-lg-4 col-md-6 text-center"">
+            <div class=""service-box mt-5 mx-auto"">
+              <i class=""fa fa-4x fa-handshake-o text-primary mb-3 sr-icons""></i>
+              <h3 class=""mb-3"">");
+            
+            #line 154 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1031]));
+            
+            #line default
+            #line hidden
+            this.Write("</h3>\r\n              <p class=\"text-muted mb-0\">");
+            
+            #line 155 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1032]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+            </div>
+          </div>
+          <div class=""col-lg-4 col-md-6 text-center"">
+              <div class=""service-box mt-5 mx-auto"">
+                <i class=""fa fa-4x fa-lightbulb-o text-primary mb-3 sr-icons""></i>
+                <h3 class=""mb-3"">");
+            
+            #line 161 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1033]));
+            
+            #line default
+            #line hidden
+            this.Write("</h3>\r\n                <p class=\"text-muted mb-0\">");
+            
+            #line 162 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1034]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+              </div>
+            </div>    
+          <div class=""col-lg-4 col-md-6 text-center"">
+            <div class=""service-box mt-5 mx-auto"">
+              <i class=""fa fa-4x fa-bug text-primary mb-3 sr-icons""></i>
+              <h3 class=""mb-3"">");
+            
+            #line 168 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1035]));
+            
+            #line default
+            #line hidden
+            this.Write("</h3>\r\n              <p class=\"text-muted mb-0\">");
+            
+            #line 169 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1036]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+            </div>
+          </div>
+          <div class=""col-lg-4 col-md-6 text-center"">
+            <div class=""service-box mt-5 mx-auto"">
+              <i class=""fa fa-4x fa-rocket text-primary mb-3 sr-icons""></i>
+              <h3 class=""mb-3"">");
+            
+            #line 175 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1037]));
+            
+            #line default
+            #line hidden
+            this.Write("</h3>\r\n              <p class=\"text-muted mb-0\">");
+            
+            #line 176 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1038]));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+          <div class=""col-lg-8 mx-auto text-center"">
+            <p class=""text-white mb-5""></p>
+            <a class=""btn btn-primary btn-xl js-scroll-trigger"" href=""#contact"">");
+            
+            #line 183 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1039]));
             
             #line default
             #line hidden
@@ -176,136 +451,30 @@ namespace BitBoostSiteGenerator.Templates
           </div>
         </div>
       </div>
-    </section>
-      Arkitektur
-      Integration
-      Nyutveckling
-      Förvaltning
-      Agila processer
-    <section id=""services"">
+    </section>      
+
+    <section class=""bg-primary"" id=""contact"">      
       <div class=""container"">
         <div class=""row"">
-          <div class=""col-lg-12 text-center"">
+          <div class=""col-lg-8 mx-auto text-center"">
             <h2 class=""section-heading"">");
             
-            #line 106 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
-            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1011]));
+            #line 193 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1040]));
             
             #line default
             #line hidden
-            this.Write("</h2>\r\n            <hr class=\"my-4\">\r\n          </div>\r\n        </div>\r\n      </d" +
-                    "iv>\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div cl" +
-                    "ass=\"col-lg-3 col-md-6 text-center\">\r\n            <div class=\"service-box mt-5 m" +
-                    "x-auto\">\r\n              <i class=\"fa fa-4x fa-diamond text-primary mb-3 sr-icons" +
-                    "\"></i>\r\n              <h3 class=\"mb-3\">Sturdy Templates</h3>\r\n              <p c" +
-                    "lass=\"text-muted mb-0\">Our templates are updated regularly so they don\'t break.<" +
-                    "/p>\r\n            </div>\r\n          </div>\r\n          <div class=\"col-lg-3 col-md" +
-                    "-6 text-center\">\r\n            <div class=\"service-box mt-5 mx-auto\">\r\n          " +
-                    "    <i class=\"fa fa-4x fa-paper-plane text-primary mb-3 sr-icons\"></i>\r\n        " +
-                    "      <h3 class=\"mb-3\">Ready to Ship</h3>\r\n              <p class=\"text-muted mb" +
-                    "-0\">You can use this theme as is, or you can make changes!</p>\r\n            </di" +
-                    "v>\r\n          </div>\r\n          <div class=\"col-lg-3 col-md-6 text-center\">\r\n   " +
-                    "         <div class=\"service-box mt-5 mx-auto\">\r\n              <i class=\"fa fa-4" +
-                    "x fa-newspaper-o text-primary mb-3 sr-icons\"></i>\r\n              <h3 class=\"mb-3" +
-                    "\">Up to Date</h3>\r\n              <p class=\"text-muted mb-0\">We update dependenci" +
-                    "es to keep things fresh.</p>\r\n            </div>\r\n          </div>\r\n          <d" +
-                    "iv class=\"col-lg-3 col-md-6 text-center\">\r\n            <div class=\"service-box m" +
-                    "t-5 mx-auto\">\r\n              <i class=\"fa fa-4x fa-heart text-primary mb-3 sr-ic" +
-                    "ons\"></i>\r\n              <h3 class=\"mb-3\">Made with Love</h3>\r\n              <p " +
-                    "class=\"text-muted mb-0\">You have to make your websites with love these days!</p>" +
-                    "\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"row\"" +
-                    ">\r\n          <div class=\"col-lg-8 mx-auto text-center\">\r\n          <!--\r\n       " +
-                    "     <h2 class=\"section-heading text-white\">");
+            this.Write("</h2>\r\n            <hr class=\"my-4\">\r\n            <p class=\"text-muted mb-4\">");
             
-            #line 145 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
-            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1008]));
+            #line 195 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1041]));
             
             #line default
             #line hidden
-            this.Write("</h2>\r\n            <hr class=\"light my-4\">\r\n            <p class=\"text-faded mb-4" +
-                    "\">");
+            this.Write("</p>\r\n            <p class=\"text-muted mb-4\">");
             
-            #line 147 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
-            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1009]));
-            
-            #line default
-            #line hidden
-            this.Write("</p>\r\n            -->\r\n            <a class=\"btn btn-primary btn-xl js-scroll-tri" +
-                    "gger\" href=\"#contact\">");
-            
-            #line 149 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
-            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1014]));
-            
-            #line default
-            #line hidden
-            this.Write("</a>\r\n          </div>\r\n        </div>\r\n      </div>\r\n    </section>\r\n\r\n    <!--<" +
-                    "section class=\"p-0\" id=\"portfolio\">\r\n      <div class=\"container-fluid p-0\">\r\n  " +
-                    "      <div class=\"row no-gutters popup-gallery\">\r\n          <div class=\"col-lg-4" +
-                    " col-sm-6\">\r\n            <a class=\"portfolio-box\" href=\"img/portfolio/fullsize/1" +
-                    ".jpg\">\r\n              <img class=\"img-fluid\" src=\"img/portfolio/thumbnails/1.jpg" +
-                    "\" alt=\"\">\r\n              <div class=\"portfolio-box-caption\">\r\n                <d" +
-                    "iv class=\"portfolio-box-caption-content\">\r\n                  <div class=\"project" +
-                    "-category text-faded\">\r\n                    Category\r\n                  </div>\r\n" +
-                    "                  <div class=\"project-name\">\r\n                    Project Name\r\n" +
-                    "                  </div>\r\n                </div>\r\n              </div>\r\n        " +
-                    "    </a>\r\n          </div>\r\n          <div class=\"col-lg-4 col-sm-6\">\r\n         " +
-                    "   <a class=\"portfolio-box\" href=\"img/portfolio/fullsize/2.jpg\">\r\n              " +
-                    "<img class=\"img-fluid\" src=\"img/portfolio/thumbnails/2.jpg\" alt=\"\">\r\n           " +
-                    "   <div class=\"portfolio-box-caption\">\r\n                <div class=\"portfolio-bo" +
-                    "x-caption-content\">\r\n                  <div class=\"project-category text-faded\">" +
-                    "\r\n                    Category\r\n                  </div>\r\n                  <div" +
-                    " class=\"project-name\">\r\n                    Project Name\r\n                  </di" +
-                    "v>\r\n                </div>\r\n              </div>\r\n            </a>\r\n          </" +
-                    "div>\r\n          <div class=\"col-lg-4 col-sm-6\">\r\n            <a class=\"portfolio" +
-                    "-box\" href=\"img/portfolio/fullsize/3.jpg\">\r\n              <img class=\"img-fluid\"" +
-                    " src=\"img/portfolio/thumbnails/3.jpg\" alt=\"\">\r\n              <div class=\"portfol" +
-                    "io-box-caption\">\r\n                <div class=\"portfolio-box-caption-content\">\r\n " +
-                    "                 <div class=\"project-category text-faded\">\r\n                    " +
-                    "Category\r\n                  </div>\r\n                  <div class=\"project-name\">" +
-                    "\r\n                    Project Name\r\n                  </div>\r\n                </" +
-                    "div>\r\n              </div>\r\n            </a>\r\n          </div>\r\n          <div c" +
-                    "lass=\"col-lg-4 col-sm-6\">\r\n            <a class=\"portfolio-box\" href=\"img/portfo" +
-                    "lio/fullsize/4.jpg\">\r\n              <img class=\"img-fluid\" src=\"img/portfolio/th" +
-                    "umbnails/4.jpg\" alt=\"\">\r\n              <div class=\"portfolio-box-caption\">\r\n    " +
-                    "            <div class=\"portfolio-box-caption-content\">\r\n                  <div " +
-                    "class=\"project-category text-faded\">\r\n                    Category\r\n            " +
-                    "      </div>\r\n                  <div class=\"project-name\">\r\n                    " +
-                    "Project Name\r\n                  </div>\r\n                </div>\r\n              </" +
-                    "div>\r\n            </a>\r\n          </div>\r\n          <div class=\"col-lg-4 col-sm-" +
-                    "6\">\r\n            <a class=\"portfolio-box\" href=\"img/portfolio/fullsize/5.jpg\">\r\n" +
-                    "              <img class=\"img-fluid\" src=\"img/portfolio/thumbnails/5.jpg\" alt=\"\"" +
-                    ">\r\n              <div class=\"portfolio-box-caption\">\r\n                <div class" +
-                    "=\"portfolio-box-caption-content\">\r\n                  <div class=\"project-categor" +
-                    "y text-faded\">\r\n                    Category\r\n                  </div>\r\n        " +
-                    "          <div class=\"project-name\">\r\n                    Project Name\r\n        " +
-                    "          </div>\r\n                </div>\r\n              </div>\r\n            </a>" +
-                    "\r\n          </div>\r\n          <div class=\"col-lg-4 col-sm-6\">\r\n            <a cl" +
-                    "ass=\"portfolio-box\" href=\"img/portfolio/fullsize/6.jpg\">\r\n              <img cla" +
-                    "ss=\"img-fluid\" src=\"img/portfolio/thumbnails/6.jpg\" alt=\"\">\r\n              <div " +
-                    "class=\"portfolio-box-caption\">\r\n                <div class=\"portfolio-box-captio" +
-                    "n-content\">\r\n                  <div class=\"project-category text-faded\">\r\n      " +
-                    "              Category\r\n                  </div>\r\n                  <div class=\"" +
-                    "project-name\">\r\n                    Project Name\r\n                  </div>\r\n    " +
-                    "            </div>\r\n              </div>\r\n            </a>\r\n          </div>\r\n  " +
-                    "      </div>\r\n      </div>\r\n    </section>\r\n\r\n    <section class=\"bg-dark text-w" +
-                    "hite\">\r\n      <div class=\"container text-center\">\r\n        <h2 class=\"mb-4\">Free" +
-                    " Download at Start Bootstrap!</h2>\r\n        <a class=\"btn btn-light btn-xl sr-bu" +
-                    "tton\" href=\"http://startbootstrap.com/template-overviews/creative/\">Download Now" +
-                    "!</a>\r\n      </div>\r\n    </section>\r\n    -->             \r\n\r\n    <section class=" +
-                    "\"bg-primary\" id=\"contact\">\r\n      <div class=\"container\">\r\n        <div class=\"r" +
-                    "ow\">\r\n          <div class=\"col-lg-8 mx-auto text-center\">\r\n            <h2 clas" +
-                    "s=\"section-heading text-white\">");
-            
-            #line 264 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
-            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1012]));
-            
-            #line default
-            #line hidden
-            this.Write("</h2>\r\n            <hr class=\"light my-4\">\r\n            <p class=\"text-faded mb-4" +
-                    "\">");
-            
-            #line 266 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
-            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1013]));
+            #line 196 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1042]));
             
             #line default
             #line hidden
@@ -313,23 +482,46 @@ namespace BitBoostSiteGenerator.Templates
           </div>
         </div>
         <div class=""row"">
-          <!--<div class=""col-lg-4 ml-auto text-center"">
-            <i class=""fa fa-phone fa-3x mb-3 sr-contact""></i>
-            <p>123-456-6789</p>
-          </div>-->
-          <div class=""col-lg-4 mr-auto text-center"">
-            <i class=""fa fa-envelope-o fa-3x mb-3 sr-contact""></i>
-            <p text-faded mb-4>
-              <a href=""mailto:");
+          <div class=""col-lg-1 col-md-0 mx-auto text-center""></div>         
+          <div class=""col-lg-3 col-md-4 mx-auto text-center"">            
+              <script type=""text/javascript"" src=""https://secure.skypeassets.com/i/scom/js/skype-uri.js""></script>                              
+              <div style=""background:#F29918; margin:0rem 3rem; border: none;border-radius: 300px;"" id=""SkypeButton_Call_fredrik_2549_1"">
+                <script type=""text/javascript"">
+                Skype.ui({
+                  ""name"": ""chat"",
+                  ""element"": ""SkypeButton_Call_fredrik_2549_1"",
+                  ""participants"": [""fredrik_2549""],
+                  ""imageColor"": ""white"",
+                  ""imageSize"": 32
+                });
+               </script>
+              </div>
+          </div> 
+          <!-- 
+          <div class=""col-lg-3 col-md-4 mx-auto text-center"">
+            <i class=""fa fa-phone fa-3x mb-3 sr-contact text-primary""></i>
+            <p class=""text-muted mb-4"">+46 123 45 67 89</p>
+          </div> 
+          -->
+          <div class=""col-lg-3 col-md-4 mx-auto text-center"">
+            <a href=""mailto:");
             
-            #line 277 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 222 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(CompanyMail));
+            
+            #line default
+            #line hidden
+            this.Write("\"><i class=\"fa fa-envelope-o fa-3x mb-3 sr-contact text-primary\"></i></a>\r\n      " +
+                    "      <p class=\"text-muted mb-4\">\r\n              <a href=\"mailto:");
+            
+            #line 224 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(CompanyMail));
             
             #line default
             #line hidden
             this.Write("\">");
             
-            #line 277 "C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            #line 224 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(CompanyMail));
             
             #line default
@@ -337,10 +529,56 @@ namespace BitBoostSiteGenerator.Templates
             this.Write(@"</a>
             </p>
           </div>
+          <div class=""col-lg-1 col-md-0 mx-auto text-center""></div>         
         </div>
       </div>
     </section>
 
+    <section class=""bg-footer section-footer"" id=""footer"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-lg-8 mx-auto text-center"">
+              <p class=""mb-4"" />
+              <p class=""mb-4 text-white""> ");
+            
+            #line 237 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(CompanyName));
+            
+            #line default
+            #line hidden
+            this.Write(" | ");
+            
+            #line 237 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1043]));
+            
+            #line default
+            #line hidden
+            this.Write(" ");
+            
+            #line 237 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(OrganizationNumber));
+            
+            #line default
+            #line hidden
+            this.Write(" | ");
+            
+            #line 237 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(Localizer.Text[1044]));
+            
+            #line default
+            #line hidden
+            this.Write(" | ");
+            
+            #line 237 "C:\FilesTemp\devuroab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\Templates\SinglePageApplicationTemplate.tt"
+            this.Write(this.ToStringHelper.ToStringWithCulture(CompanyMail));
+            
+            #line default
+            #line hidden
+            this.Write(@"</p>
+            </div>
+          </div>
+        </div>
+    </section>
     <!-- Bootstrap core JavaScript -->
     <script src=""vendor/jquery/jquery.min.js""></script>
     <script src=""vendor/bootstrap/js/bootstrap.bundle.min.js""></script>

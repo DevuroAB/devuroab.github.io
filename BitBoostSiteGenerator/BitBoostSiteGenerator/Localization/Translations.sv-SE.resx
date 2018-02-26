@@ -133,6 +133,120 @@
     <value>Kontakt</value>
   </data>
   <data name="Text_1008" xml:space="preserve">
-    <value>Vårt mål och syfte</value>
+    <value>Företaget grundades utifrån följande kärnvärden:</value>
+  </data>
+  <data name="Text_1044" xml:space="preserve">
+    <value>Mölndal</value>
+  </data>
+  <data name="Text_1006" xml:space="preserve">
+    <value>Letar du efter konsulter som är erfarna, lättsamma och fokuserade på produktivitet? Då har du hittat rätt plats!</value>
+  </data>
+  <data name="Text_1007" xml:space="preserve">
+    <value>Läs Vidare</value>
+  </data>
+  <data name="Text_1009" xml:space="preserve">
+    <value>Kundfokus</value>
+  </data>
+  <data name="Text_1010" xml:space="preserve">
+    <value>'Build-measure-learn' slingor hjälper oss att hitta den rätta lösningen</value>
+  </data>
+  <data name="Text_1011" xml:space="preserve">
+    <value>Produktivitet</value>
+  </data>
+  <data name="Text_1012" xml:space="preserve">
+    <value>Vi är anlitade för att leverera</value>
+  </data>
+  <data name="Text_1013" xml:space="preserve">
+    <value>Glädje</value>
+  </data>
+  <data name="Text_1014" xml:space="preserve">
+    <value>Vad kreativitet och innovation föds ur</value>
+  </data>
+  <data name="Text_1015" xml:space="preserve">
+    <value>Nyfikenhet</value>
+  </data>
+  <data name="Text_1016" xml:space="preserve">
+    <value>Det är så vi lär och förbättra oss</value>
+  </data>
+  <data name="Text_1017" xml:space="preserve">
+    <value>Denna grund är förstärkt med 13 års erfarenhet av mjukvaruindustrin både inom konsult- och produktutvecklingsföretag inom sektorer som:</value>
+  </data>
+  <data name="Text_1018" xml:space="preserve">
+    <value>Industriell Automation</value>
+  </data>
+  <data name="Text_1019" xml:space="preserve">
+    <value>E-Handel</value>
+  </data>
+  <data name="Text_1020" xml:space="preserve">
+    <value>Säkerhet</value>
+  </data>
+  <data name="Text_1021" xml:space="preserve">
+    <value>Uppkopplade System (IoT)</value>
+  </data>
+  <data name="Text_1022" xml:space="preserve">
+    <value>Distribuerade System</value>
+  </data>
+  <data name="Text_1023" xml:space="preserve">
+    <value>Medicinteknik</value>
+  </data>
+  <data name="Text_1024" xml:space="preserve">
+    <value>Sjukvård</value>
+  </data>
+  <data name="Text_1025" xml:space="preserve">
+    <value>Tillsammans utgör de ett vinnande koncept. Vi drivs av kundtillfredsställelse och våra kunder är nöjda när vi levererar värde.</value>
+  </data>
+  <data name="Text_1026" xml:space="preserve">
+    <value>Hur kan vi hjälpa till?</value>
+  </data>
+  <data name="Text_1027" xml:space="preserve">
+    <value>.NET</value>
+  </data>
+  <data name="Text_1028" xml:space="preserve">
+    <value>C#, VB.NET, C++ / CLI, Desktop, Mobile, Backend, Web.</value>
+  </data>
+  <data name="Text_1029" xml:space="preserve">
+    <value>Arkitektur</value>
+  </data>
+  <data name="Text_1030" xml:space="preserve">
+    <value>Förbättringar av befintliga system, stöd vid utformning av nya funktioner eller komplettering av design från början.</value>
+  </data>
+  <data name="Text_1031" xml:space="preserve">
+    <value>Integration</value>
+  </data>
+  <data name="Text_1032" xml:space="preserve">
+    <value>Kartläggning av data mellan system, kommunikation och hårdvarugränssnitt. Allt behöver arbeta tillsammans.</value>
+  </data>
+  <data name="Text_1033" xml:space="preserve">
+    <value>Nyutveckling</value>
+  </data>
+  <data name="Text_1034" xml:space="preserve">
+    <value>Inte bara funktionsförbättringar eller nya system och applikationer. Det kan också finnas ett behov av att refaktorera ett förlegat system eller för att minska kodlukt och teknisk skuld.</value>
+  </data>
+  <data name="Text_1035" xml:space="preserve">
+    <value>Förvaltning</value>
+  </data>
+  <data name="Text_1036" xml:space="preserve">
+    <value>Mjukvara är aldrig färdig. Efter installationen måste du planera för arbete för bugfixar, svara på feedback från kunder och eliminera teknisk skuld.</value>
+  </data>
+  <data name="Text_1037" xml:space="preserve">
+    <value>Agila Processer</value>
+  </data>
+  <data name="Text_1038" xml:space="preserve">
+    <value>Skala din utvecklingsprocess från Kanban och SCRUM till modeller som SAFe och LeSS. Vilka är dina behov?</value>
+  </data>
+  <data name="Text_1039" xml:space="preserve">
+    <value>Prata Med Oss</value>
+  </data>
+  <data name="Text_1040" xml:space="preserve">
+    <value>Låt oss komma i kontakt</value>
+  </data>
+  <data name="Text_1041" xml:space="preserve">
+    <value>Redo att börja arbeta med oss? Kanske vill du bara ta en kaffe och småprata?</value>
+  </data>
+  <data name="Text_1042" xml:space="preserve">
+    <value>Hur som helst, vi är väldigt intresserade av att höra från dig! Ring eller skicka ett mail till oss så återkommer vi tillbaka till dig så snart som möjligt!</value>
+  </data>
+  <data name="Text_1043" xml:space="preserve">
+    <value>Org Nr:</value>
   </data>
 </root>
